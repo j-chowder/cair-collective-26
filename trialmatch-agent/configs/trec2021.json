@@ -1,0 +1,9 @@
+{
+  "_note": "TREC Clinical Trials 2021. spend_limit_usd is the total across all runs; raise it step by step.",
+  "spend_limit_usd": 8.00,
+  "paths": {
+    "trials": "data/processed/trials.jsonl",
+    "topics": "data/processed/topics2021.jsonl",
+    "qrels": "data/processed/qrels2021.txt"
+  }
+}

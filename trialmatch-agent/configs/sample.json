@@ -1,0 +1,5 @@
+{
+  "_note": "10 made-up trials and 2 patients. Use with --mock (free) or for a first real test (< $0.01).",
+  "spend_limit_usd": 1.00,
+  "agent": {"max_tool_calls": 10, "seed_k": 10}
+}
