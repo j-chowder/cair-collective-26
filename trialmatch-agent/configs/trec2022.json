@@ -1,0 +1,9 @@
+{
+  "_note": "TREC Clinical Trials 2022.",
+  "spend_limit_usd": 18.00,
+  "paths": {
+    "trials": "data/processed/trials.jsonl",
+    "topics": "data/processed/topics2022.jsonl",
+    "qrels": "data/processed/qrels2022.txt"
+  }
+}

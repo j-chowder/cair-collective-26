@@ -1,0 +1,2 @@
+# Only dependency. After installing, pin the version you got (pip freeze | grep anthropic).
+anthropic
